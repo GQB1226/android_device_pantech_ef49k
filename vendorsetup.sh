@@ -14,4 +14,5 @@
 # limitations under the License.
 #
 
+add_lunch_combo full_ef49k-userdebug
 add_lunch_combo full_ef49k-eng
